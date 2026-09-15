@@ -1,0 +1,13 @@
+name = "TrenberthCallbacks"
+uuid = "23a9ace5-4859-46fa-8f5a-e0c681e11c54"
+authors = ["Hannah-Jane Wood", "Lucy Harlow", "Ofer Cohen"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]

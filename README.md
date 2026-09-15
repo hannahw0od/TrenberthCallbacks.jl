@@ -21,6 +21,8 @@ add!(model.callbacks, :trenberth => cb)
 sim = initialize!(model)
 run!(sim, period=Day(10))
 
+Made by Hannah-Jane Wood, Lucy Harlow, and Ofer Cohen
+
 
 
 [![Build Status](https://github.com/hannahw0od/TrenberthCallbacks.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/hannahw0od/TrenberthCallbacks.jl/actions/workflows/CI.yml?query=branch%3Amain)
